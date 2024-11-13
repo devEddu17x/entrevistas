@@ -1,0 +1,147 @@
+-- proceso de atencion
+[Eddu]
+Básicamente, para el proceso de atención, los datos de los clientes se guardan solo, es que me habían mencionado que se guardaban cuando piden boletas, pero también se guardan para cuando piden facturas? 
+
+[Administrador]
+Obviamente. 
+
+[Eddu]
+Bien, y que datos?
+
+[Administrador]
+Más que todo guardamos los nombres, el número de DNI, en caso de boletas se guardan los nombres del cliente, el número del DNI, dirección, si en caso, dirección de correo electrónico perdón, y el número de celular, algunos te lo proporcionan, otros no, pero con uno de los dos puedes manejar, y para facturas si se maneja el número de RUC, la razón social, y un número de celular o correo electrónico.
+
+-- proceso de almacen
+[Eddu]
+Bien, y ahora sobre el proceso de almacenamiento, ¿el almacenero y el jefe de cocina son la misma persona?
+
+[Administrador]
+No, son diferentes personas.
+
+[Eddu]
+Y las dos trabajan desde las 7 hasta las 5? 
+
+[Eddu]
+Sí. Digamos que cuando el jefe de cocina le dice que falta una tal cosa, ¿este la avisa a usted y directamente lo pide a un proveedor?
+¿o primero verifica que hay en el almacén?
+
+[Administrador]
+Primero verifica que hay en el almacén y luego lo solicitamos en un proveedor.
+
+[Eddu]
+Si primero lo verifica, ¿cómo lo hace? ¿Cómo le comunica al almacén que tiene que verificar algo?
+
+[Administrador]
+El jefe de cocina se comunica con el almacén directamente para ver qué insumos le puede proveer el almacén. Si en caso el almacén no cuenta con los insumos, entonces me lo solicita a mí y yo hablo con los proveedores directamente.
+
+[Eddu]
+Bien. ¿Y cómo le dice el jefe de cocina al almacén? ¿Lo dice por algún mensaje de voz, por alguna llamada, o es un papel?
+
+[Administrador]
+No, a través de un mensaje de whatsapp nada más.
+
+[Eddu]
+¿De whatsapp?
+
+[Administrador]
+Sí, y el almacenero verifica en su Excel si es que tiene el stock o no lo tiene. Si en caso lo tiene, verifica de manera física, porque puede ser que no lo haya pasado y se lo haya olvidado, entonces verifica de manera física si tiene. Y si cuenta, se lo comunica de nuevo al jefe de cocina y hace el descargo en el Excel. Bien.
+
+[Eddu]
+¿Y se lo pasa manualmente, no?
+
+[Administrador]
+Sí, claro. Bien.
+
+[Eddu]
+Y si no hay, ¿cómo le comunica usted? O sea, por mensaje, llamado, ¿cómo?
+
+[Administrador]
+Me lo comunican a través de whatsapp y por correo electrónico personal.
+
+[Eddu]
+¿Sobre los proveedores también se le registra como la salida del dinero en la caja o algo así?
+
+[Orador 1]
+Los egresos, claro. Se le pone como pago personal. Pago, perdón, pago proveedor.
+
+Un pago de proveedor. Tenemos varios proveedores, entonces ya cada uno tiene su nombre de proveedor.
+
+[Eddu]
+¿Y quién lo hace? ¿Lo hace la cajera o lo hace usted?
+
+[Administrador]
+No, lo hago yo. Lo hace usted.
+
+[Eddu] 
+Ahora, si el jefe de cocina se encarga de verificar el inventario de insumos para los platos, ¿quién se encarga de verificar el de bebidas, gaseosas y todo el resto?
+
+[Administrador]
+El de caja.
+
+[Eddu]
+¿Y cómo le comunica de un bajo stock?
+
+[Administrador]
+O sea, también, así como... Claro, el de caja maneja su stock en Excel. Si en caso, como es automático, ven cuándo va saliendo, entonces lo descargan, lo descargan nada más.
+
+Restan en el Excel, es cosa sencilla y bueno, les aparece el stock final, que debería ser el stock inicial para el día siguiente. Entonces ellos verifican si va a faltar o no. Si en caso falta, se comunican por WhatsApp con almacén y les provee directamente.
+
+Pero si en caso no tiene almacén el producto, entonces se comunican conmigo y yo me comunico con los proveedores.
+
+[Eddu]
+¿Se comunica el almacén o se comunica el almacén?
+
+[Administrador]
+El almacén conmigo. El almacén conmigo. Claro.
+
+[Administrador]
+Pero, ¿para el proceso de registrar como, o sea, pagar y registrar los productos que han llegado para el tema de las bebidas, es igual que con los insumos? ¿O hay algo en lo que varía? Para registrar, bueno, en el proceso de pagar y luego cuando ya se tienen que registrar los productos que han entrado, pero para el tema de las bebidas, ¿el proceso es el mismo que con un insumo normal como pollo o arroz? ¿O se trata de manera diferente?
+
+[Eddu]
+No, son diferentes. ¿Por qué? Porque los que son productos predecibles, se refrigeran algunos, otros se congelan y otros se mantienen a temperatura ambiente.
+
+Pero todos se registran, bueno, en caso de pollo, lo que es carnes, es por peso. La unidad de medida es peso, mientras que por las bebidas es unidad. Eso.
+
+[Eddu]
+Ah, cierto. ¿Y le entregan boleta o factura?
+
+[Administrador]
+Los proveedores nos entregan factura directamente.
+
+¿Y se lo hacen de manera física o se la envían a algún lado? 
+
+[Administrador]
+Algunos lo dejan en la factura con el almacenero para yo hacer el descargo después y cancelarlos. Pero si en caso no lo dejan de manera física, me lo mandan de manera virtual. Me lo mandan por mi correo. Los proveedores me mandan las facturas de manera, por correo nada más, no por WhatsApp.
+
+
+-- proceso de publicidad
+[Eddu]
+¿Cómo le comunican nuevamente cuántos hay?
+
+[Administrador]
+¿Cuántos volantes? El almacenero se comunica conmigo porque él maneja el stock en millares. Ya cuando le quedan medio millar, él me solicita.
+Me dice, ¿sabe qué?, vaya a pidiendose dos millares o tres millares para que ya. 
+
+Yo me comunico con el proveedor, de la imprenta y él me lo ejecuta. Comienza a imprimirmelas y después me da fecha límite para envío.
+
+[Eddu]
+El almacen con usted por mensaje de WhatsApp y usted al proveedor por teléfono. 
+
+[Administrador]
+Exacto. 
+
+[Eddu]
+Y también obviamente se registra en el Excel.
+
+[Administrador]
+El egreso. El egreso del pago, sí. Se tiene ya un fondo separado.
+
+Si en caso dejamos de un día para el otro, que puede ser los volantes, y utilizamos otro método de marketing o publicidad para nosotros. 
+
+También hay un fondo que es siempre el 3% de todas las ventas de manera mensual.
+
+[Eddu]
+Ah, o sea, lo van separando tanto para...
+
+[Orador 1]
+Claro, ya tenemos un bolchón con lo que es solamente netamente marketing.

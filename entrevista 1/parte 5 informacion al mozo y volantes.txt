@@ -1,0 +1,65 @@
+[Eddu]
+Por ejemplo, ¿qué información, así como usted le da al mozo, qué es lo que el mozo le puede dar, como así un papelito, un mensaje o algo, lo que sea que le dé el mozo a usted?
+
+[Administrador]
+Eh, ¿te refieres a temas administrativos? Por ejemplo, que quiera algo, solicitar algo.
+
+[Eddu]
+O sea, ¿cualquier tipo de información que venga de él hacia usted?
+
+[Administrador]
+Si me encuentra de manera presencial, viene y me lo dice, o me deja un papelito si es que me encuentro ocupado dentro del local. Pero si no me encuentra, me manda un mensaje por Whatsapp.
+
+[Eddu]
+¿Y qué podría incluir ese mensaje, o qué le podría avisar?
+
+Me comunica qué es lo que podría faltar, por ejemplo, qué accidente hubo, porque puede ser de que algún gusinero se haya quemado, entonces él me notifica. Pero normalmente siempre eso lo ven como los mozos que están de un lado para otro, ellos lo pueden visualizar y se lo comunican al cajero, el cajero me lo recepciona a mí. Ya él directamente se comunica conmigo.
+
+Los mozos no tienen, digamos, comunicación directa conmigo, solamente el cajero y el encargado de cocina.
+
+[Eddu]
+¿El encargado de cocina lo que le envía a ustedes es para el almacén?
+
+[Administrador]
+Claro, me envían sus requerimientos del de cocina, me envían sus requerimientos que necesiten. Si en caso necesita algún insumo, se le manda, se le encargo al de almacén, le comunico, porque ellos no tienen comunicación directa, porque almacén está en un lado y cocinero está en otro lado. El cocinero no puede salir de su zona hasta que no termine su turno.
+Entonces por eso se comunican conmigo o le mandan al mozo y el mozo le recepciona al cajero.
+
+[Eddu]
+Y el cajero aparte, además de pedirle lo que le pide el mozo, ¿hay algo que particularmente él le diga a usted?
+
+[Administrador]
+El cajero me comunica cómo van las ventas, cómo van, si tenemos ventas, si no tenemos ventas y qué se puede hacer para impulsar. Entonces cuando no hay ventas y el día está demasiado muerto se podría decir, se le manda a volantear al mozo, se le manda a estar en puerta.
+
+[Eddu]
+¿De dónde salen los volantes?
+
+[Administrador]
+Los volantes ya lo tenemos, tenemos 3 millares de volantes, en las cuales nosotros los recepcionamos ya pronto, los mozos van, entregan, solamente en los momentos que tenemos bajos clientes. Si tenemos unas 5 o 6 mesas, entonces tenemos tres mozos.
+
+Uno va a volantear, le pasa un tipo de volantear y le da la bienvenida a los clientes. Se encarga de recepcionar, se encarga de dar la bienvenida a los clientes. Si ve algún cliente que está mirando, que está despistado, se encarga de hacer la venta sugestiva.
+
+La venta sugestiva va desde si quieren, tenemos esto y lo motiva al cliente a entrar.
+
+[Eddu]
+¿Cómo sabe cuántos volantes tiene? Por ejemplo, me dijo 3 millares, ¿cómo sabe? 
+
+[Administrador]
+Almacén. Claro, almacén lo tiene ya en su almacén de secos, lo guarda, sabe cuántos millares tenemos y cuántos millares no tenemos. Él me va comunicando, mira, nos queda un millar, ya perfecto, que se acabe ese millar y hacemos nuevos volantes. El tema del volante no es, digamos, 100% la captación de cada cliente, pero sí, aunque sea el 1% de todos los volantes que se reparten, se capta.
+
+[Eddu]
+En el diseño de los volantes, ¿usted lo hace a alguien manualmente o nada más le da la información a un proveedor o a una persona o a quien le da y luego le da?
+
+[Administrador]
+No, prácticamente los volantes, bueno, el diseño lo hago yo, pero el tema de mandarlos, se encarga una empresa aparte. La empresa se encarga de mandarnos, nos manda la factura, igual, nosotros no tenemos que salir del local para que traiga las cosas, nos mandan a nosotros. 
+
+[Mauricio]
+Tal cual lo describió la empresa, ¿qué es lo que quisiera mejorar, digamos, de todo esto?
+
+[Administrador]
+Quisiera no manejar tanto el Excel y manejar un sistema, para que sea más rápido, porque estar digitando boleta por boleta toma tiempo, entonces se me necesitaría más fácil un sistema donde limita directamente la boleta de la SUNAT, obviamente, ¿verdad?
+
+[Eddu]
+Sí, por ejemplo, que cuando salga un pedido, te descuente los productos que van incluidos para preparar ese pedido y que ya se produzca del almacén.
+
+[Administrador]
+Claro, vendría a ser un CRP, un CRM, perdón, o si no, en este caso, algún estilo SAP, el sistema SAP es un poquito más amplio, pero es incosteable para cada local, es un local muy chiquito, por lo tanto, no se puede hacer ese requerimiento, pero sí, pero sería dentro de nuestros planes tener un sistema para empezar un CRM o si no, un RP.

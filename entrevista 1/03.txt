@@ -1,0 +1,170 @@
+[Eddu]
+Continuando con el tema... Quiero saber por ejemplo el tema de lo que sería el cobro. O sea, el mozo va y entrega el dinero a caja o...
+
+[Administrador]
+El mozo va, entrega, le canta a la precuenta, se podría decirle así, de esa manera. Y le dice cuándo tiene que cancelar. Para luego nosotros realizar la dicha boleta o factura.
+El traslado del dinero es desde el mozo hacia la caja. Del cliente, obviamente. El mozo recepciona el dinero, el mozo entrega el dinero a caja. El cajero entrega el vuelto al mozo y el mozo entrega el vuelto al cliente.
+
+[Eddu]
+Y por ejemplo, ¿qué documentos manejan en ese tiempo?
+
+[Administrador]
+De manera momentánea manejamos el Excel. Claro, es el último sistema factible para manejar ahora. Es un programa un poquito atrasado.
+
+Pero hay muchos programas que aún no nos hemos abierto a las posibilidades de incorporarlo. Pero sí, el Excel lo manejamos. Metemos un filtro, metemos uno que otro buscador por ahí para que salga lo más rápido posible.
+
+[Eddu]
+¿Qué filtros utilizas? Primero eso, ¿qué filtros utilizas?
+
+[Administrador]
+Utilizan el tema de filtros para, por ejemplo, al finalizar el turno. Ver qué producto ha salido más para, por siguiente, impulsarlo quizás a través de redes sociales. Se caracteriza, se sectoriza, se familiariza los productos.
+
+Todo producto está familiarizado. Todo lo que es un plato de ceviche, obviamente, está solamente dentro de la familia de ceviches. No lo podemos incorporar dentro de lo que es frituras o dentro de lo que es chaufas.
+
+Todo está familiarizado. Tiene cada familia. Una familia tiene su sub-familia.
+
+En este caso, la sub-familia vendría a ser los platos finalizados.
+
+[Eddu]
+¿Qué es lo que dijo que buscaba?¿Qué es lo que busca?
+
+[Administrador]
+Utilizamos la función buscar para a veces, si algún cliente quiere volver a tener el comprobante, quizás lo perdió, lo extravió. Entonces nosotros con el número de DNI o el nombre o el grupo, nosotros lo podemos buscar a través del Excel.
+
+[Eddu]
+Por ejemplo, usted hace como todo lo del almacén, o sea, ve lo que hay y lo que no hay en la mañana, ¿no? Exacto. O el día anterior y llega en la mañana.
+
+[Administrador]
+Sí, el requerimiento lo hacemos a través de solamente contactos. 
+
+[Eddu]
+¿A qué hora? 
+
+[Administrador] 
+Se realiza, a través del pedido, se realiza a las seis y media, siete.
+
+[Eddu]
+¿De la noche? Sí. ¿Y para que llegue en la mañana?
+
+Para que llegue en la mañana. 
+
+[Eddu] Y, ¿cómo sabe? Por ejemplo, si pide el día de ayer, llega hoy, y en la mañana se acaba algunas cosas que estaban para la noche, porque también atienden la noche.
+
+[Administrador]
+Entonces manejamos el tema, dentro del Excel también manejamos el almacén o el stock. Para ello nosotros hacemos el requerimiento a los proveedores, y los proveedores nos traen y se hace el registro. Automáticamente de eso me encargo yo.
+
+O si en caso estoy muy ocupado, lo mando al almacenero a que lo haga. Él registra la computadora en el almacén, al Excel ingresa lo que ha ingresado, todo lo que netamente ha ingresado, y los requerimientos que se han solicitado. Si algo no ha ingresado, él me comunica, mira, ¿sabes qué?
+
+No ha ingresado esto y se ha solicitado esto. Entonces yo me comunico con los proveedores, ellos me dicen disculpas, ya se ha terminado. Siempre una u otra cosa se le termina a los proveedores y no me lo pueden abastecer.
+
+Esto es en tema de productos ya, digamos, perecibles. Pero productos no perecibles como las bebidas o algún producto seco. Eso quiere decir que nosotros hacemos los pedidos dos veces por semana en tema de las bebidas, o sea, gaseosas o aguas.
+
+Y en tema de cervezas, si se hace un pedido a la semana. Por lo tanto, se realiza un stock, se tiene una cantidad ya prolongada más o menos, promedio.
+
+[Eddu]
+¿Guarda algunos datos de los clientes, por ejemplo?
+
+[Administrador]
+Solamente de los clientes que piden boletas. ¿Solo de los que piden? Claro, porque de los que piden boletas, algunos desean que limitamos su boleta y se lo mandemos por correo o por Whatsapp.
+
+Entonces tenemos que ingresar a la página de sunat y emitirlas desde ahí. Como aún no tenemos un sistema, entonces ya desde ahí la hacemos.
+
+[Eddu]
+¿Exactamente guarda el correo y el número o, solo el número o solo el correo? 
+
+[Administrador]
+Exactamente guardamos los dos. Siempre y cuando el cliente nos proporciona. Si no, solamente el número que lo más rápido que se acuerde.
+
+[Eddu]
+¿Qué problemas puede tener con los pagos?
+
+[Administrador]
+Con los pagos a proveedores se les paga de manera inmediata. Algunos proveedores te dan plazo para que los pagues. Y tenemos el plazo de dos o tres días máximos para cancelarlo.
+
+[Eddu]
+¿Cómo le pagas?
+[Administrador]
+A través de transferencias, si en caso lo requieran. Algunos vienen, como te digo, algunos pagos se hacen de manera inmediata.
+
+Eso sí, se tiene que hacer en efectivo. Pero los que se hacen prolongados, después de dos o tres días, esos pagos son de transferencia. Casi en la mayoría de los casos.
+
+[Eddu]
+¿Para el caso de pago inmediato, le paga cuando usted lo pide y va hasta allá a pagarle? ¿O cuando lo traen, le paga ahí?
+
+[Administrador]
+No, lo pagamos cuando ellos lo traen acá. Y ellos nos emiten la factura, obviamente, de todos los productos ya contados.
+
+[Eddu]
+¿Usted guarda esas facturas?
+
+[Administrador]
+Para entregar a la contabilidad, claro.
+
+[Mauricio]
+¿Tiene de vez en cuando algun evento?
+
+[Administrador]
+Sí, tenemos eventos los viernes, sábados y domingos.
+
+Tres veces por semana. O en caso hay alguna reservación particular, como cumpleaños o bautizos. O alguna reunión que quieran hacer de mesas grandes.
+
+Se solicita al cantante. Para ello se requiere, se le mantiene su contacto y se le solicita cada vez que se lo requiere. Y él está a disposición, prácticamente, de nosotros.
+
+Porque él tiene otro trabajo, pero es en la noche. Entonces, se le hace más fácil trabajar por acá del día. Muy bien.
+
+[Mauricio]
+¿Y cómo presten las reservas? 
+
+[Administrador]
+Reservan a través de nuestro número de la empresa. Nos solicitan ¿sabe qué? Queremos una cierta cantidad de mesas, para cierta cantidad de clientes. Y entonces, dicho pedido lo realizan. Por ejemplo, si son 10 clientes, realizan 10 pedidos de platos.
+
+Y tienen   que cancelar aunque sea el 30% de lo que ellos van a comprar. Solo el 30% solo como mínimo.
+
+Si quieren entregar más, vienen a negociar. Pero siempre se solicita el 30% como mínimo. Y confirmar la reservación.
+
+Si no hacen dicho pago, no se confirma la reservación.
+
+[Eddu]
+¿Hay algún manejo de inventario o algo parecido que sea especial para los días que tienen eventos?
+
+[Administrador]
+Sí, manejamos un inventario, en este caso lo manejo yo, el administrador. Va, cocina directamente y ve qué insumos tenemos y qué insumos no tenemos. Y los requerimientos que realice, en este caso, la reservación.
+-- parte confusa, esto hay que preguntar la proxima entrevista
+
+Si ellos piden un plato especial dentro del que noesta en nuestra carta, entonces nosotros tenemos que hacer la compra de dichos insumos.
+
+[Eddu]
+¿Y qué pasa si el cocinero, por ejemplo, no lo sabe preparar?
+
+[Administrador]
+Tenemos tres tipos de cocineros. Tenemos uno que sabe netamente todo lo que es frituras, otro que es frío. Por producto frío quiere decir todo lo que es ceviches.
+
+Entonces, netamente se encarga de él. Cualquier tipo de ceviche él lo puede realizar. Y luego tenemos una cocinera que sabe todo lo que son platos criollos.
+
+Y tenemos un ayudante de cocina que está terminando sus estudios y es practicante. Recibe un sueldo de part-time y fuera de ello sus pasajes.
+
+[Eddu]
+Justo tocado un tema importante. ¿El tema de los sueldos los maneja usted también en Excel o simplemente acá?
+
+[Administrador]
+No, no. Todo se maneja a través del Excel para llevarlo a una contabilidad fija. Porque si no, no sabríamos qué ingresos tendríamos y qué ingresos tendríamos.
+
+Si estamos en pérdida o no. 
+
+[Mauricio]
+¿Eso también llegaría a perjudicar a los pagos de los trabajadores de alguna manera? Si en caso tenemos alguna deuda con los proveedores o no.
+
+[Administrador]
+Preferimos siempre el bienestar de cada, bueno, de nuestros colaboradores. Tenerlo bien satisfecho. Porque si tenemos algún pago retrasado nos perjudica, se puede malinterpretar, alguna incomodidad.
+
+También nosotros tenemos en cuenta que cada colaborador tiene sus propios gastos. Entonces no podemos retrasarnos nuestro gasto. Ellos ya se proyectan en un gasto ya quincenal, entonces ya nosotros les pagamos de manera quincenal.
+
+[Eddu]
+¿Cómo se maneja, por ejemplo, cuando un miembro del personal se va inesperadamente?
+
+[Administrador]
+Ah, si es por abandono, ya nosotros tenemos que buscar un reemplazo. Tenemos un reemplazo, siempre.
+
+Tenemos a una persona que podemos contactar y esa persona, como tiene más trabajos de noche, entonces tiene todo el día desocupado y nos comunica si desean algún trabajo, yo puedo asistir. Y bueno, se encarga. Si en caso nos faltan meseros o cajeros, hay reemplazo.
+
+Pero si nos falta un cocinero, tenemos que el ayudante de cocina suma el rol como cocinero. Entonces se encarga y buscamos un ayudante de cocina en un tiempo prolongado de una semana.

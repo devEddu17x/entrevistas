@@ -1,0 +1,12 @@
+-- proceso de atencion
+[Eddu]
+Básicamente, para el proceso de atención, los datos de los clientes se guardan solo, es que me habían mencionado que se guardaban cuando piden boletas, pero también se guardan para cuando piden facturas? 
+
+[Administrador]
+Obviamente. 
+
+[Eddu]
+Bien, y que datos?
+
+[Administrador]
+Más que todo guardamos los nombres, el número de DNI, en caso de boletas se guardan los nombres del cliente, el número del DNI, dirección, si en caso, dirección de correo electrónico perdón, y el número de celular, algunos te lo proporcionan, otros no, pero con uno de los dos puedes manejar, y para facturas si se maneja el número de RUC, la razón social, y un número de celular o correo electrónico.
