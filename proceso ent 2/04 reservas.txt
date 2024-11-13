@@ -74,7 +74,7 @@ Bueno, el pago se hace a través de transferencias, o de manera presencial.
 ¿Yape no maneja?
 
 [Administrador]
-No, a menos que vengan y lo cancelen el post. También se puede hacer. Pero manejamos solamente el post, transferencias y efectivos. No manejamos llaves personales.
+No, a menos que vengan y lo cancelen el post. También se puede hacer. Pero manejamos solamente el post, transferencias y efectivos. No manejamos yapes personales.
 
 [Eddu]
 ¿Cómo se le notifica al cliente que se le ha confirmado la reserva?
